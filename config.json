@@ -1,0 +1,9 @@
+{
+    "APIid": "ethereum",
+
+    "ticker": "ETH: ",
+
+    "customStatus": "Ethereum",
+
+    "updateInterval": 60000
+}
